@@ -1,4 +1,4 @@
 server:
   port: ${PORT:8889}
 
-message: Consumer configuration server in pedroluisperez repo is alive ACTUALIZADO EN REPO V4!
+message: Consumer configuration server in pedroluisperez repo is alive ACTUALIZADO EN REPO V5!
